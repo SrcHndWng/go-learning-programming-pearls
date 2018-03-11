@@ -7,7 +7,7 @@ import (
 	"os"
 	"sort"
 
-	"./utils"
+	"github.com/SrcHndWng/go-learning-programming-pearls/Column02/2.6.1/utils"
 )
 
 // INPUTFILE defines input filename.
